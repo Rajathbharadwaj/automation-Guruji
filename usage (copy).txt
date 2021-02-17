@@ -1,0 +1,11 @@
+run 
+pip install rich 
+(in command prompt)
+Do the above only the first time you run it, not needed everytime, it's to install that library
+******************-----------------**********************
+
+to run the python file
+
+python liteEv.py
+
+
